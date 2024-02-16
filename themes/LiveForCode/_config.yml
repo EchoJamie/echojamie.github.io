@@ -153,13 +153,13 @@ MenuList:
     type: "tag"
     class: ""
     target: "_self"
-  -
-    name: "归档"
-    icon: "icon-calendar-fill"
-    href: "/archive"
-    type: "archive"
-    class: ""
-    target: "_self"
+  # -
+  #   name: "归档"
+  #   icon: "icon-calendar-fill"
+  #   href: "/archive"
+  #   type: "archive"
+  #   class: ""
+  #   target: "_self"
   # -
   #   name: "赞赏"
   #   icon: "icon-heart-fill"
