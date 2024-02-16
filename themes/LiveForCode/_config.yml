@@ -275,9 +275,9 @@ Donate:
 
 # ---- Algolia配置 ----
 Search:
-  applicationID: "010C3EANT8"
-  apiKey: "c7abab9f11b79102b9aff7fe6d41447d"
-  indexName: "Notes"
+  applicationID: 680AANO8B3
+  apiKey: ba3d06c6472d4c79a30fa2eaa43d836a
+  indexName: blog
   hits:
     page: 10
   labels:
