@@ -13,7 +13,7 @@ tags:
 categories:
   - brew
 abbrlink: 14275f01
-description:
+description: 将本地开发的go程序, 实现通过brew安装
 ---
 
 ### 前言
